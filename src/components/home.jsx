@@ -48,8 +48,8 @@ export function AuroraBackgroundDemo() {
           <span className="animate-pulse">|</span>
         </div>
         <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4 text-center">
-  {subText}
-</div>
+          {subText}
+        </div>
 
 
         <a
