@@ -47,9 +47,11 @@ export function AuroraBackgroundDemo() {
           {mainText}
           <span className="animate-pulse">|</span>
         </div>
-        <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
-          {subText}
-        </div>
+        <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4 text-center">
+  {subText}
+</div>
+
+
         <a
           href="#about"
           className="mt-6 inline-block px-6 py-3 text-lg font-medium bg-zinc-700 text-zinc-100 rounded-full shadow-md hover:shadow-lg hover:bg-zinc-600 transition-all duration-300"
